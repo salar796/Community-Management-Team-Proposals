@@ -4,7 +4,7 @@ Send 49.26 billion QUBIC to wallet QUVMATJHXVSGSAIAMACGMGQZBMXBALEIXFLAAOHHTBNCS
 
 ### 🗳️ Available Options:
 > **Option 0**: ❌ No, I don’t want  
-> **Option 1**: ✅ Yes, approve the budget of XXX bln QUBIC.
+> **Option 1**: ✅ Yes, approve the budget of 49.26 bln QUBIC.
 
 ## 简体中文版
 <details>
